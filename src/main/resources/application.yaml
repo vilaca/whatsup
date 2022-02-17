@@ -1,0 +1,12 @@
+spring:
+  config:
+    import:
+      - application-management.yaml
+      - application-targets.yaml
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework: WARN

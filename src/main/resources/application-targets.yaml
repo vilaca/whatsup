@@ -1,0 +1,7 @@
+targets:
+  - name: "Google"
+    host: "https://google.com"
+  - name: "Facebook"
+    host: "https://facebook.com"
+  - name: "Localhost"
+    host: "http://localhost"
